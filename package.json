@@ -1,0 +1,22 @@
+{
+  "name": "vumonic-datalabs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "cheerio": "^1.1.0",
+    "fs": "^0.0.1-security",
+    "jest": "^30.0.3",
+    "jsdom": "^26.1.0",
+    "sqlite3": "^5.1.7",
+    "winston": "^3.17.0",
+    "yargs": "^18.0.0"
+  }
+}
